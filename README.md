@@ -10,7 +10,7 @@ from C to Python to Javascript to Ruby and more
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* **[Ademola Adebowale](https://twitter.com/fadebowaley)** <[Aysuarex](https://github.com/fadebowaley)>
+* **[Ademola Adebowale](https://twitter.com/fadebowaley)**
 
 ## Acknowledgements :pray:
 
